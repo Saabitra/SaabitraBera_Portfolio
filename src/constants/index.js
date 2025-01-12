@@ -7,9 +7,13 @@ import disastertracker from "../assets/projects/disaster-tracker.jpg";
 import saabitraportfolio from "../assets/projects/saabitra-portfolio.jpg";
 import weatheraireporter from "../assets/projects/weather-ai-reporter.jpg";
 
-export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = `I am a dedicated Full-Stack Developer specializing in building scalable, user-centric web applications. Proficient in ReactJS, NextJS, TailwindCSS, and JavaScript for the front end, I combine them with robust back-end technologies like Node.js, MySQL, and MongoDB to deliver seamless digital solutions. With a strong focus on UI/UX design and modern development practices, I strive to create exceptional user experiences that make a lasting impact.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `I am a passionate and skilled Full-Stack Developer with a strong foundation in both frontend and backend technologies. Proficient in ReactJS, NextJS, and TailwindCSS, I create responsive, user-centric web applications with clean and efficient code. With expertise in HTML, CSS, JavaScript, Python, and SQL, I bring ideas to life, seamlessly integrating functionality and design.
+
+Beyond development, I have a keen eye for UI/UX design, leveraging tools like Figma and Adobe Creative Suite to craft intuitive interfaces that enhance user experience. My problem-solving skills, critical thinking, and ability to work collaboratively in teams allow me to excel in fast-paced, challenging environments.
+
+Outside of coding, I enjoy designing and developing creative web applications, capturing nature’s beauty through wildlife photography, and analyzing sports like Cricket and Formula 1. I also find inspiration in movies and motivational books, constantly seeking growth both personally and professionally.`;
 
 export const EXPERIENCES = [
   {
@@ -74,7 +78,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "767 Fifth Avenue, New York, NY 10153 ",
-  phoneNo: "+12 4555 666 00 ",
-  email: "me@example.com",
+  address: "94/46, Nayapatty Road, Vivekananda Abasan, Kolkata 700055, West Bengal, India",
+  phoneNo: "+91 9748299429",
+  email: "saabitrabera@gmail.com",
 };
